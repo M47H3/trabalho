@@ -1,0 +1,215 @@
+
+
+
+body{
+  background: url(img\ de\ fundo.jpg);
+background-size: cover;
+
+}
+
+
+.a {
+    width: 20%;
+    position: absolute;
+    top: 70%;
+    left: 10%;
+
+}
+
+.b {
+    width: 3%;
+    position: absolute;
+    top: 85%;
+    left: 10%;
+}
+
+.c {
+    width: 3%;
+    position: absolute;
+    top: 85%;
+    left: 5%;
+}
+
+.e {
+    position: absolute;
+    right: 52%;
+    top: 70%;
+    font-size: 17px;
+}
+
+.f {
+    position: absolute;
+    left: 40%;
+    right: 20%;
+    top: 76%;
+    font-size: 13px;
+}
+
+.d {
+    position: absolute;
+    top: 95%;
+    right: 2%;
+    width: 2%;
+
+}
+.g{
+    position: absolute;
+    top: 71%;
+    left: 5%;
+    width: 3%;
+     
+}
+.h{
+    position: absolute;
+    left: 45%;
+
+}
+.i{
+    position: absolute;
+    top: 20%;
+    left: 10%;
+}
+.j{
+    position: absolute;
+    left: 40%;
+    top: 25%;
+
+}
+.k{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 30%;
+    left: 10%;
+    background-color: rgb(0, 0, 0);
+    opacity: 50%;
+}
+.k:hover{
+    color: rgb(255, 255, 255);
+}
+.k:visited{
+    color: rgb(255, 255, 255);
+}
+.m{
+    position: absolute;
+    left: 40%;
+    top: 20%;
+
+
+}
+.l{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 30%;
+    left: 40%;
+    background-color: rgb(0, 0, 0);
+    opacity: 50%;
+}
+.l:hover{
+    color: rgb(255, 255, 255);;
+}
+.l:visited{
+    color: rgb(255, 255, 255);
+}
+
+
+
+.n{
+    position: absolute;
+    left:60%;
+    top: 20%;
+
+}
+.o{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 30%;
+    left: 60%;
+    background-color: rgb(0, 0, 0);
+    opacity: 50%;
+}
+.o:hover{
+    color: rgb(255, 255, 255);
+}
+.o:visited{
+    color: rgb(255, 255, 255);
+}
+.p{
+    position: absolute;
+    left:10%;
+    top:40%;
+}
+.q{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 50%;
+    left: 10%;
+    background-color: rgb(0, 0, 0);
+    opacity: 50%;
+}
+.q:hover{
+    color: rgb(255, 255, 255);
+}
+.q:visited{
+    color: rgb(255, 255, 255);
+}
+.r{
+    position: absolute;
+    left:35%;
+    top: 40%;
+}
+.s{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 50%;
+    left: 35%;
+    background-color: rgb(0, 0, 0);
+    opacity: 50%;
+}
+.s:hover{
+    color: rgb(255, 255, 255);
+}
+.s:hover:visited{
+    color: rgb(255, 255, 255);
+}
+.t{
+    position: absolute;
+    left: 60%;
+    top:40%;
+}
+.u{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 50%;
+    left: 60%;
+    background-color: rgb(0, 0, 0);
+    opacity: 50%;
+}
+.u:hover{
+    color: black;
+}
+.u:hover:visited{
+    color: black;
+}
+
+h3{
+color: white;
+background-color: rgb(0, 0, 0);
+opacity: 50%;
+}
+
+p{
+    color: white;
+    background-color: rgb(0, 0, 0);
+    opacity: 50%;
+}
+h2{
+    color: white;
+    background-color: rgb(0, 0, 0);
+    opacity: 50%;
+}
